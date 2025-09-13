@@ -1,6 +1,6 @@
 {
   "files": [
-    { "name": "test.c", "type": "code" } 
+    { "name": "main.c", "type": "code" } 
   ],
   "language": "c",
   "description": "Starter files for the activity with folders."
